@@ -1,0 +1,6 @@
+{
+  "appId": "com.pennyplate.app",
+  "appName": "PennyPlate",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
